@@ -38,7 +38,7 @@ Lastly, for the inventory and price
 Inventory is unconfirmed as we are still waiting for the boards to arrive, and the prices are subject to change as well
 
 |Rating|Qty    |Price** |
-|:-----|:------|:-------|
+|:-----|:-----:|:-------|
 |A0    |-      |100     |
 |A1    |-      |95      |
 |A2    |-      |90      |
