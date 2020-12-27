@@ -9,7 +9,7 @@ First of all, a little intro to these switches. Since switches are really heavil
 
 For me, what I personally like about it is the smoothness of it, but of course, not all batches are perfect
 
-Hence, inspired by the Vint Black GB ran but @qiuku, I have used the same three tables to categororised the switches: Cleaness, Smoothness, and Both
+Hence, inspired by the Vint Black GB ran by @qiuku, I have used the same three tables to categororised the switches: Cleaness, Smoothness, and Both
 
 Cleaness Table:
 |Cleaness Rating|                                 |
