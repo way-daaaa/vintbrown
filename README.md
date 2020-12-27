@@ -12,11 +12,11 @@ For me, what I personally like about it is the smoothness of it, but of course, 
 Hence, inspired by the Vint Black GB ran but @qiuku, I have used the same three tables to categororised the switches: Cleaness, Smoothness, and Both
 
 Cleaness Table:
-|Cleaness Rating|                                     |
-|:--------------|:-------------------------------------|
-|New            |From a brand new board               |
-|Clean          |Some dust, easily cleaned            |
-|Dirty          |Needs a brush, still easily cleanable|
+|Cleaness Rating|                                 |
+|:--------------|:--------------------------------|
+|New            |From a brand new board           |
+|Clean          |Some dust, easily cleaned        |
+|Dirty          |Needs a brush, maaaybe ultrasonic|
 
 Smoothness Table:
 |Smoothness|                                                            |
