@@ -49,4 +49,4 @@ Inventory is unconfirmed as we are still waiting for the boards to arrive, and t
 |C1    |-      |85      |
 |C2    |-      |80      |
 
-_**Take note that all prices include qexpress shipping, and might change based on quality._
+_**Take note that all prices do not include qexpress shipping, and might change based on quality._
